@@ -90,11 +90,6 @@
   margin-right: auto;
 }
 
-        .iframe_wide { display: block; }
-        .iframe_small { display: none; }
-        .iframe_medium { display: none; }
-        .iframe_thin { display: none; }
-
 	@media screen and (max-width: 1680px) {
 
 		.container.\31 25\25 {
@@ -148,9 +143,6 @@
 	}
 
 	@media screen and (max-width: 980px) {
-
-        .iframe_medium { display: block; }
-        .iframe_wide { display: none; }
         
 		.container.\31 25\25 {
 			width: 100%;
@@ -206,9 +198,6 @@
 
 	@media screen and (max-width: 736px) {
         
-        .iframe_small { display: block; }
-        .iframe_medium { display: none; }
-
 		.container.\31 25\25 {
 			width: 100%;
 			max-width: 125%;
@@ -234,9 +223,6 @@
 	}
 
 	@media screen and (max-width: 480px) {
-
-        .iframe_thin { display: block; }
-        .iframe_small { display: none; }
 
 		.container.\31 25\25 {
 			width: 100%;
